@@ -1,8 +1,11 @@
 lab events
+nfs
 fifa
 blind typing
+super mario
 
 class event
 rubik cubes
 word buzz
 logo buzz
+snake and ladder
