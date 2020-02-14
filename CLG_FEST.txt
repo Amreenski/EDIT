@@ -3,9 +3,11 @@ nfs
 fifa
 blind typing
 super mario
+logo design
 
 class event
 rubik cubes
 word buzz
 logo buzz
 snake and ladder
+follow the path
